@@ -6,3 +6,7 @@ Typing error: Used '/' for the newline instead of '\'
 
 ----------git----------
 git error: Lost ex10, 11, 12
+
+----------ex15---------
+Typing error: Used a "'" instead of a '"'
+File error: Ran "ex15_sample.py" instead of "ex15_sample.txt"
