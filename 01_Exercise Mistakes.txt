@@ -10,3 +10,6 @@ git error: Lost ex10, 11, 12
 ----------ex15---------
 Typing error: Used a "'" instead of a '"'
 File error: Ran "ex15_sample.py" instead of "ex15_sample.txt"
+
+----------ex16---------
+Typing error: Used ',' instead of '.' when calling .close()
