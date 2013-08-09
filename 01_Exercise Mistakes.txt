@@ -1,15 +1,18 @@
-----------ex7----------
+----------ex7-----------
 Typing error: Used a '?' instead of a '.'
 
-----------ex9----------
+----------ex9-----------
 Typing error: Used '/' for the newline instead of '\'
 
-----------git----------
+----------git-----------
 git error: Lost ex10, 11, 12
 
-----------ex15---------
+----------ex15----------
 Typing error: Used a "'" instead of a '"'
 File error: Ran "ex15_sample.py" instead of "ex15_sample.txt"
 
-----------ex16---------
+----------ex16----------
 Typing error: Used ',' instead of '.' when calling .close()
+
+----------ex24----------
+Typing error: forgot to add a '%' after the string
