@@ -1,0 +1,15 @@
+Rules for If-Statements
+1. Every if must have an else
+2. Always put a die function and error message in an unused else statement
+3. Never nest if-statements more than 2 deep. Move the second if into a new function
+4. Treats if-statements like paragraphs. blank lines before and after the if elif else group
+5. Use simple boolean tests. Move calculations to earlier in the function
+
+Rules for Loops
+1. Use a while-loop only to loop forever
+2. Use a for loop for everything else
+
+Tips for Debugging
+1. Do not use a debugger
+2. Use print statements to find where it goes wrong
+3. Test code as you write it
